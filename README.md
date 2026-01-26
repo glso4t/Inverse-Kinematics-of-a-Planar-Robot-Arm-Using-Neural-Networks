@@ -46,20 +46,7 @@ for dataset generation, numerical inverse kinematics, and neural network evaluat
 
 ---
 
-## Project Structure
 
-project/
-│
-├── fk.py # Forward kinematics
-├── jacobian.py # Jacobian computation
-├── ik_newton.py # Newton–Raphson inverse kinematics
-├── dataset.py # Dataset generation
-├── nn_ik.py # Neural network training and demo
-├── compare_methods.py # Quantitative comparison (NN vs Newton)
-├── README.md
-└── report.pdf
-
----
 
 ## Requirements
 - Python 3.9 or newer
